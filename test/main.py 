@@ -1,0 +1,6 @@
+def main():
+    print("now we are starting to move in the right direction")
+
+
+if __name__ == '__main__':
+    main()
